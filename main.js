@@ -34,25 +34,25 @@ function initMap() {
             infoWindowCheat.open(gMap, markerCheat);
 
 
-            text1 = "<del>Location 1</del>"
+            text1 = "<del>San Diego, California</del>"
             document.getElementById("loc1").innerHTML = text1;
           
-            text2 = "<del>Location 2</del>"
+            text2 = "<del>Orlando, Florida</del>"
             document.getElementById("loc2").innerHTML = text2;
           
-                text3 = "<del>Location 3</del>"
+                text3 = "<del>Great Smoky Mountains National Park, Tennessee</del>"
             document.getElementById("loc3").innerHTML = text3;
             
-                text4 = "<del>Location 4</del>"
+                text4 = "<del>Las Vegas, Nevada</del>"
             document.getElementById("loc4").innerHTML = text4;
            
-                text5 = "<del>Location 5</del>"
+                text5 = "<del>Chicago, Illinois</del>"
             document.getElementById("loc5").innerHTML = text5;
           
-                text6 = "<del>Location 6</del>"
+                text6 = "<del>San Antonio, Texas</del>"
             document.getElementById("loc6").innerHTML = text6;
         
-                text7 = "<del>Location 7</del>"
+                text7 = "<del>Honolulu, Hawaii</del>"
             document.getElementById("loc7").innerHTML = text7;
 
 
@@ -196,49 +196,49 @@ function updateGame() {
 if (score1 >= 1){
     //score1 = score1 = 1;
     //scoreTotal = scoreTotal + score1;
-    text1 = "<del>Location 1</del>"
+    text1 = "<del>San Diego, California</del>"
 document.getElementById("loc1").innerHTML = text1;
 }
 
 if (score2 >= 1){
     //score1 = score1 = 1;
     //scoreTotal = scoreTotal + score1;
-    text2 = "<del>Location 2</del>"
+    text2 = "<del>Orlando, Florida</del>"
 document.getElementById("loc2").innerHTML = text2;
 }
 
 if (score3 >= 1){
     //score1 = score1 = 1;
     //scoreTotal = scoreTotal + score1;
-    text3 = "<del>Location 3</del>"
+    text3 = "<del>Great Smoky Mountains National Park, Tennessee</del>"
 document.getElementById("loc3").innerHTML = text3;
 }
 
 if (score4 >= 1){
     //score1 = score1 = 1;
     //scoreTotal = scoreTotal + score1;
-    text4 = "<del>Location 4</del>"
+    text4 = "<del>Las Vegas, Nevada</del>"
 document.getElementById("loc4").innerHTML = text4;
 }
 
 if (score5 >= 1){
     //score1 = score1 = 1;
     //scoreTotal = scoreTotal + score1;
-    text5 = "<del>Location 5</del>"
+    text5 = "<del>Chicago, Illinois</del>"
 document.getElementById("loc5").innerHTML = text5;
 }
 
 if (score6 >= 1){
     //score1 = score1 = 1;
     //scoreTotal = scoreTotal + score1;
-    text6 = "<del>Location 6</del>"
+    text6 = "<del>San Antonio, Texas</del>"
 document.getElementById("loc6").innerHTML = text6;
 }
 
 if (score7 >= 1){
     //score1 = score1 = 1;
     //scoreTotal = scoreTotal + score1;
-    text7 = "<del>Location 7</del>"
+    text7 = "<del>Honolulu, Hawaii</del>"
 document.getElementById("loc7").innerHTML = text7;
 }
 
