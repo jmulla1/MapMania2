@@ -1,0 +1,40 @@
+#myMapID{
+    height: 100%;
+    width: 100%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1 { 
+    text-align: center;
+    color: rgb(0, 89, 255);}
+
+body {
+background-color: rgb(219, 219, 219);    
+}
+
+
+.textbox1{
+    width: 320px;
+    padding: 1px;
+    border: 1px solid gray;
+    margin: 0;
+}
+
+
